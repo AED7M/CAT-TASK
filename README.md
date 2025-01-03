@@ -1,4 +1,4 @@
-This repository contains answers to SQL and problem-solving questions, along with machine learning notebooks. Below is an overview of the repository's structure and contents:
+This repository contains answers to SQL and problem-solving questions, along with machine learning notebook. Below is an overview of the repository's structure and contents:
 
 ## Folder Structure
 
